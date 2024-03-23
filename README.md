@@ -1,11 +1,11 @@
 Quiet Attic Films is a film production company based in London, England who specialize in making short information films and advertisements for television.
 They wanted to design and implement a database that meets the requirements for their data.
-The information they want to store there:
-Client’s information
-Production information
-Staff information
-Location information
-Payment information
+🔅The information they want to store there:
+Client’s information, 
+Production information, 
+Staff information, 
+Location information, 
+Payment information, and 
 Property information.
 
 
